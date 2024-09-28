@@ -1,2 +1,11 @@
-# Image-replacement-for-md
-一个用于批量替换 markdown 文件中图片的图床平台的应用程序
+# replace_markdown_images_to_local_url
+
+open folder (don't forget to make a perfect backup before replacing).
+
+then
+
+```sh
+python3 replace.py
+```
+
+done!
