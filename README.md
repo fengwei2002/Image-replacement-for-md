@@ -7,5 +7,3 @@ then
 ```sh
 python3 replace.py
 ```
-
-done!
