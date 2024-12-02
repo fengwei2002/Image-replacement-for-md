@@ -2,6 +2,8 @@
 
 A tool to download remote images and replace their URLs with local paths in Markdown files, perfect for note backup and offline access.
 
+![screenshot](image.png)
+
 ## 📝 Description
 
 This tool helps you create self-contained local copies of your Markdown notes by:

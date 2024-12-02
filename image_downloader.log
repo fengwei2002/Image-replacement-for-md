@@ -1,0 +1,23 @@
+2024-12-02 14:45:58,667 - INFO - ==================================================
+2024-12-02 14:45:58,667 - INFO - Starting new session
+2024-12-02 14:45:58,667 - INFO - Starting image downloader for directory: ./input_folder/
+2024-12-02 14:46:03,460 - INFO - Initializing ImageDownloader for directory: ./input_folder/
+2024-12-02 14:46:03,460 - INFO - Creating working copy at: input_folder_processed_20241202_144603
+2024-12-02 14:46:03,461 - INFO - Working copy created successfully at: input_folder_processed_20241202_144603
+2024-12-02 14:46:03,462 - INFO - Processing file: input_folder_processed_20241202_144603/in.md
+2024-12-02 14:46:03,462 - INFO - Created/verified local_images directory: input_folder_processed_20241202_144603/local_images
+2024-12-02 14:46:03,463 - INFO - Download attempt 1/3: https://raw.githubusercontent.com/psychonaut1f/mac/main/2024/202410211805834.png
+2024-12-02 14:46:04,503 - INFO - Successfully downloaded: fc5d42c60bef6395f548df1551cb1dca.png
+2024-12-02 14:46:04,503 - INFO - Replaced link: https://raw.githubusercontent.com/psychonaut1f/mac/main/2024/202410211805834.png -> local_images/fc5d42c60bef6395f548df1551cb1dca.png
+2024-12-02 14:46:04,503 - INFO - Download attempt 1/3: https://raw.githubusercontent.com/psychonaut1f/mac/main/2024/202410211814300.png
+2024-12-02 14:46:04,745 - INFO - Successfully downloaded: ee48d762cc79629340a7dfb0a9d9620c.png
+2024-12-02 14:46:04,746 - INFO - Replaced link: https://raw.githubusercontent.com/psychonaut1f/mac/main/2024/202410211814300.png -> local_images/ee48d762cc79629340a7dfb0a9d9620c.png
+2024-12-02 14:46:04,746 - INFO - Successfully processed file: input_folder_processed_20241202_144603/in.md
+2024-12-02 14:46:04,746 - INFO - ==================================================
+Processing Summary:
+Original directory: input_folder
+Processed directory: input_folder_processed_20241202_144603
+Files processed: 1
+Images processed: 2
+Failed downloads: 0
+==================================================
